@@ -15,7 +15,7 @@ Install [node.js](https://nodejs.org/), and [git](https://git-scm.com/book/en/v2
 
 5. Then run `http-server` in terminal inside current folder.
 
-6. View the URL **http://localhost:8080/** in browser.
+6. View the URL **http://localhost:8080/index.html** in browser.
 
 ### Reference
 1. [3.3.0 Jasmine documentation](https://jasmine.github.io/api/3.3/global)
